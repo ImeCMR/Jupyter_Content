@@ -5,7 +5,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier
-from ipywidgets import interact
+#from ipywidgets import interact
 
 
 def visualize_tree(estimator, X, y, boundaries=True,
